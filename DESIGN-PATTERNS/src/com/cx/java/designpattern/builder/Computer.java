@@ -1,13 +1,7 @@
-/*
-* Copyright 2018 - Till Date BEO Softwares GmbH.  All Rights Reserved.
-*/
+
 package com.cx.java.designpattern.builder;
 
-/**
- * @author cerin.cx@beo.in
- * @since  Aug 7, 2018
- * @version 1.0
- */
+
 public class Computer
 {
 	
